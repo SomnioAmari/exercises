@@ -16,6 +16,4 @@ Thumbs.db
 *.log
 logs/
 
-# 本地运行环境与上传文件（不提交）
-nginx-1.20.2/
-images/
+
